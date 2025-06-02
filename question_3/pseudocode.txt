@@ -1,7 +1,5 @@
-Inputs
+Input
 Hashtable of stages, performances and attendees
-
-
 
 Process
 1. Create a hashtable of all stages, their capacity, name, area in square metres, and equipment available.
