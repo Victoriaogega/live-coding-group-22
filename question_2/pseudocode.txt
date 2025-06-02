@@ -1,0 +1,15 @@
+ Input
+List of doctors 
+List of patients
+
+Process
+1. Create a list of doctors’ gender, specialization, ID, and their available time.
+2. Create a list of patients' preferred gender and their specialized needs.
+3. Loop through the patient’s hashmap
+4. If the specialized needs and the gender preference of the patient match the gender and the specialization of the doctor, allocate the available time of the doctor to the patient.
+5. Set a reminder for the patient.
+6. Send a reminder to the patient 24 hours before.
+
+
+Output
+String.
